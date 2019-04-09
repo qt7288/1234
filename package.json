@@ -1,0 +1,29 @@
+{
+  "name": "1234",
+  "version": "1.0.0",
+  "description": "你号没了",
+  "main": "index.js",
+  "scripts": {
+    "test": "12121",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qt7288/1234.git"
+  },
+  "keywords": [
+    "1212"
+  ],
+  "author": "21222",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qt7288/1234/issues"
+  },
+  "homepage": "https://github.com/qt7288/1234#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
